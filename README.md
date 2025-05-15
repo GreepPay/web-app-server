@@ -47,7 +47,7 @@ This server is designed to address the SEO challenges often encountered when bui
     npm run dev
     ```
 
-3.  Access the application in your browser at `http://localhost:<port>` (default port is usually 3000).
+3.  Access the application in your browser at `http://localhost:<port>` (default port is usually 8080).
 
 ## Configuration
 
