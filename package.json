@@ -1,0 +1,17 @@
+{
+	"name": "app_template_controller",
+	"version": "1.0.0",
+	"description": "Custom controller to manage app deployment",
+	"author": "First Last <first.last@example.com>",
+	"main": "src/server.js",
+	"scripts": {
+		"start": "node src/server.js"
+	},
+	"dependencies": {
+		"axios": "^0.27.2",
+		"crypto-js": "^4.2.0",
+		"dotenv": "^16.4.5",
+		"express": "^4.16.1",
+		"isbot": "^5.1.17"
+	}
+}
